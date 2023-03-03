@@ -244,6 +244,9 @@ export default function Example() {
               <PageLink href="/Login" className="whitespace-nowrap text-base font-medium text-gray-500 hover:text-gray-900">
                 Sign in
               </PageLink>
+              <PageLink href="/Buy" className="whitespace-nowrap text-base font-medium text-gray-500 hover:text-gray-900 mx-8">
+                Buy
+              </PageLink>
             </div>
           </div>
 
