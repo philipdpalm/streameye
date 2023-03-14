@@ -649,10 +649,10 @@ export default function Example() {
           <div className="mt-12 border-t border-gray-200 pt-8 md:flex md:items-center md:justify-between lg:mt-16">
            
             <p className="mt-8 text-base text-gray-400 md:order-1 md:mt-0">
-              &copy; 2023 DTW Corporation Limited. All rights reserved.
+              &copy; 2023 HAMMERSON CORPORATE LTD. All rights reserved.
             </p>
             <p>
-            Address: 187 King Street, London, E13 8DX Company No. 14467604
+            Address: 62 Hawthorn Avenue, Colchester, CO4 3JP Company No. 14716783
             </p>
           </div>
         </div>
