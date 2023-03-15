@@ -613,8 +613,8 @@ export default function Example() {
               <div>
                 <dt className="sr-only">Postal address</dt>
                 <dd>
-                  <p>187 King Street</p>
-                  <p>London, E13 8DX</p>
+                  <p>62 Hawthorn Avenue</p>
+                  <p>Colchester, CO4 3JP</p>
                 </dd>
               </div>
               <div className="mt-6">
